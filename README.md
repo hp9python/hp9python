@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @outlookpika
-- 👀 I’m interested in PYTHON!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- 👀 I’m interested in Python
 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
