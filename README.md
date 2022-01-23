@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hp9python
-- 👀 I’m interested in..
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making a new version of python
 - 📫 How to reach me hehlmarcus74@gmail.com / mhehl12@outlook.com
